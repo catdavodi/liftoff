@@ -66,7 +66,7 @@ export default function Home() {
                 Optimize
               </h2>
               <p className="text-[14px] leading-[20px] text-[#1a2b3b] font-normal">
-              Analyze job descriptions and reword your resume to match the role's requirements. Emphasize your most relevant skills and experience so you pass screening every time.
+              Analyze job descriptions and reword your resume to match the role&apos;s requirements. Emphasize your most relevant skills and experience so you pass screening every time.
               </p>
             </div>
             <div className="w-1/2">
