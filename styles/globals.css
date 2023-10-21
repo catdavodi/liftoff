@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 #gradient-canvas {
-  --gradient-color-1: #bde1ff;
-  --gradient-color-2: #6ca0f4;
-  --gradient-color-3: #e2d8ee;
-  --gradient-color-4: #94c8ff;
+  --gradient-color-1: #234F1E;
+  --gradient-color-2: #5DBB63;
+  --gradient-color-3: #AEF359;
+  --gradient-color-4: #74B72E;
 }
