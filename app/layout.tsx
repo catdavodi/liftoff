@@ -2,26 +2,18 @@ import "../styles/globals.css";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Liftoff - AI-Powered Mock Interviews",
+  title: "Chameleon - Instantly Tailor Your Resume",
   openGraph: {
-    title: "Liftoff - AI-Powered Mock Interviews",
+    title: "Chameleon - Instantly Tailor Your Resume",
     description:
-      "Liftoff is an AI-powered mock interview platform that helps you practice for your next job interview.",
-    images: [
-      {
-        url: "https://demo.useliftoff.com/opengraph-image",
-      },
-    ],
+      "Chameleon - Instantly Tailor Your Resume",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Liftoff - AI-Powered Mock Interviews",
+    title: "Chameleon - Instantly Tailor Your Resume",
     description:
-      "Liftoff is an AI-powered mock interview platform that helps you practice for your next job interview.",
-    images: ["https://demo.useliftoff.com/opengraph-image"],
-    creator: "@tmeyer_me",
+      "Chameleon - Instantly Tailor Your Resume",
   },
-  metadataBase: new URL("https://demo.useliftoff.com"),
   themeColor: "#FFF",
 };
 
